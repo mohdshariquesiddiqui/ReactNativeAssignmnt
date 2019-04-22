@@ -1,0 +1,3 @@
+rootProject.name = 'Attribute_01'
+
+include ':app'
